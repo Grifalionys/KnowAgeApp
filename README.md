@@ -1,3 +1,4 @@
 # KnowAgeApp
 Тестовое задание
-![image](https://user-images.githubusercontent.com/112081615/211215556-1fc23158-a4c0-4191-b76c-1c5d66ed5fd0.png)
+![Снимок экрана_20230108_224125](https://user-images.githubusercontent.com/112081615/211215620-f92c36c6-aa26-47e6-98f6-1f1f88c2586c.png)
+
